@@ -1,0 +1,10 @@
+D:\c#\BINGO\BINGO\bin\Debug\BINGO.exe.config
+D:\c#\BINGO\BINGO\bin\Debug\BINGO.exe
+D:\c#\BINGO\BINGO\bin\Debug\BINGO.pdb
+D:\c#\BINGO\BINGO\obj\Debug\BINGO.csprojResolveAssemblyReference.cache
+D:\c#\BINGO\BINGO\obj\Debug\BINGO.Properties.Resources.resources
+D:\c#\BINGO\BINGO\obj\Debug\BINGO.csproj.GenerateResource.Cache
+D:\c#\BINGO\BINGO\obj\Debug\BINGO.csproj.CoreCompileInputs.cache
+D:\c#\BINGO\BINGO\obj\Debug\BINGO.exe
+D:\c#\BINGO\BINGO\obj\Debug\BINGO.pdb
+D:\c#\BINGO\BINGO\obj\Debug\BINGO.frmBingo.resources
